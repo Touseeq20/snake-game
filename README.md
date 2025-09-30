@@ -16,7 +16,7 @@ Move your **index finger** to control the snake, eat emoji-food 🍎🍌🍒, an
 ---
 
 ## 📸 Demo
-(Add a GIF or screenshot of gameplay here)  
+https://www.linkedin.com/posts/muhammad-touseeq-ai_python-opencv-mediapipe-activity-7334817095496396800-MCWa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyTefsBtV5sXcHXBasAbysBrY1AfbBhCdQ
 
 ---
 
